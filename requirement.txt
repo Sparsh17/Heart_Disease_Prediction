@@ -1,0 +1,9 @@
+Requirements
+
+Libraries
+
+1. PyQt5
+2. Pandas
+3. Numpy
+4. sklearn
+5. sqlite3
